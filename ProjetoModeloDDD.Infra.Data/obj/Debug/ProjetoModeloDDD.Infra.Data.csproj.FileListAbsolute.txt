@@ -1,0 +1,14 @@
+D:\_Projects\ProjetoModelo\ProjetoModeloDDD.Infra.Data\bin\Debug\ProjetoModeloDDD.Infra.Data.dll.config
+D:\_Projects\ProjetoModelo\ProjetoModeloDDD.Infra.Data\bin\Debug\ProjetoModeloDDD.Infra.Data.dll
+D:\_Projects\ProjetoModelo\ProjetoModeloDDD.Infra.Data\bin\Debug\ProjetoModeloDDD.Infra.Data.pdb
+D:\_Projects\ProjetoModelo\ProjetoModeloDDD.Infra.Data\bin\Debug\EntityFramework.dll
+D:\_Projects\ProjetoModelo\ProjetoModeloDDD.Infra.Data\bin\Debug\EntityFramework.SqlServer.dll
+D:\_Projects\ProjetoModelo\ProjetoModeloDDD.Infra.Data\bin\Debug\ProjetoModeloDDD.Domain.dll
+D:\_Projects\ProjetoModelo\ProjetoModeloDDD.Infra.Data\bin\Debug\ProjetoModeloDDD.Domain.pdb
+D:\_Projects\ProjetoModelo\ProjetoModeloDDD.Infra.Data\bin\Debug\EntityFramework.xml
+D:\_Projects\ProjetoModelo\ProjetoModeloDDD.Infra.Data\bin\Debug\EntityFramework.SqlServer.xml
+D:\_Projects\ProjetoModelo\ProjetoModeloDDD.Infra.Data\obj\Debug\ProjetoModeloDDD.Infra.Data.csprojAssemblyReference.cache
+D:\_Projects\ProjetoModelo\ProjetoModeloDDD.Infra.Data\obj\Debug\ProjetoModeloDDD.Infra.Data.csproj.CoreCompileInputs.cache
+D:\_Projects\ProjetoModelo\ProjetoModeloDDD.Infra.Data\obj\Debug\ProjetoModeloDDD.Infra.Data.csproj.CopyComplete
+D:\_Projects\ProjetoModelo\ProjetoModeloDDD.Infra.Data\obj\Debug\ProjetoModeloDDD.Infra.Data.dll
+D:\_Projects\ProjetoModelo\ProjetoModeloDDD.Infra.Data\obj\Debug\ProjetoModeloDDD.Infra.Data.pdb

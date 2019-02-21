@@ -1,0 +1,5 @@
+D:\_Projects\ProjetoModelo\ProjetoModeloDDD.Domain\bin\Debug\ProjetoModeloDDD.Domain.dll
+D:\_Projects\ProjetoModelo\ProjetoModeloDDD.Domain\bin\Debug\ProjetoModeloDDD.Domain.pdb
+D:\_Projects\ProjetoModelo\ProjetoModeloDDD.Domain\obj\Debug\ProjetoModeloDDD.Domain.csproj.CoreCompileInputs.cache
+D:\_Projects\ProjetoModelo\ProjetoModeloDDD.Domain\obj\Debug\ProjetoModeloDDD.Domain.dll
+D:\_Projects\ProjetoModelo\ProjetoModeloDDD.Domain\obj\Debug\ProjetoModeloDDD.Domain.pdb
